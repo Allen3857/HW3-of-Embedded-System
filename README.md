@@ -3,5 +3,5 @@ This is the code of HW3 of Embedded System. The code was modified from the given
 1. Open the BLE tool, and choose "GATT server".
 2. Go to "set Service" (in the upper right three-dots icon), click "Property", and tick "Notify". Then click "Apply".
 3. Run the Python code.
-4. Find you device number.
+4. Find your device number.
 5. Go to "SHOW LOG", and you will find that the CCCD value has been changed (in this example, the value change to 0x0002).
